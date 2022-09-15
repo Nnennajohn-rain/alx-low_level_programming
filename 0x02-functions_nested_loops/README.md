@@ -1,1 +1,1 @@
-Prototype: void print_alphabet(void)
+Write a function that checks for lowercase character.
