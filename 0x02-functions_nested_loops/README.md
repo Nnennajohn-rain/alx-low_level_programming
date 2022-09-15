@@ -1,1 +1,1 @@
- Write a program that computes and prints the sum of all the multiples of 3 or 5 
+write a program that finds and prints the sum of the even-valued terms, followed by a new line.
