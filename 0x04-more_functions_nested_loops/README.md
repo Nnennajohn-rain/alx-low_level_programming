@@ -1,1 +1,1 @@
-Write a function that prints a triangle, followed by a new line.
+Write a program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
