@@ -1,1 +1,1 @@
-Write a program that multiplies two numbers.
+Write a program that adds positive numbers.
