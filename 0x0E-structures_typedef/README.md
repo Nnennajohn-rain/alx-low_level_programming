@@ -1,3 +1,1 @@
-Write a function that frees dogs.
-
-Prototype: void free_dog(dog_t *d);
+Define a new type dog_t as a new name for the type struct dog
