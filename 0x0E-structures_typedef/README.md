@@ -1,5 +1,3 @@
-Define a new type struct dog with the following elements:
+Write a function that initialize a variable of type struct dog
 
-name, type = char *
-age, type = float
-owner, type = char *
+Prototype: void init_dog(struct dog *d, char *name, float age, char *owner);
