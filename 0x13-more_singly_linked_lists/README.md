@@ -1,8 +1,7 @@
-Write a function that prints a listint_t linked list.
+Write a function that frees a listint_t list.
 
-Prototype: size_t print_listint_safe(const listint_t *head);
-Returns: the number of nodes in the list
-This function can print lists with a loop
-You should go through the list only once
-If the function fails, exit the program with status 98
-Output format: see example
+Prototype: size_t free_listint_safe(listint_t **h);
+This function can free lists with a loop
+You should go though the list only once
+Returns: the size of the list that was free’d
+The function sets the head to NULL
