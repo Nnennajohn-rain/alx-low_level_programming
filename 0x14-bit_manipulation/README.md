@@ -1,4 +1,4 @@
-Write a function that checks the endianness.
+Find the password for this program.
 
-Prototype: int get_endianness(void);
-Returns: 0 if big endian, 1 if little endian
+Save the password in the file 101-password
+Your file should contain the exact password, no new line, no extra space
