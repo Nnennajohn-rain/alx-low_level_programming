@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 
 /**
@@ -9,3 +10,7 @@ int main(void)
 {
     return (0);
 }
+=======
+#!/bin/bash
+gcc -E $CFILE -o c
+>>>>>>> 28d6cf339d737ba648fc0a96cde32f9a698a271f
